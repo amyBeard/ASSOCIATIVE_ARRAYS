@@ -1,0 +1,6 @@
+Associative array contains 10 entries in a table of 101 size
+Strategies used: 'sum' hash, 'sum' secondary hash and 'lin' probing
+Costs accrued due to probing:
+  Insertion : 11
+  Search    : 0
+  Deletion  : 0

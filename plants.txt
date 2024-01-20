@@ -1,0 +1,43 @@
+Apple	Malus domestica
+Bamboo	Bamboosa aridinarifolia
+Banana	Musa paradisiaca
+Banyan	Ficus benghalensis
+Black Gram	Plasoes mungo
+Black Pepper	Piper nigrum
+Brinjal	Solanum melongena
+Capsicum	Capsicum frutescens
+Carrot	Daucas carota
+Clove	Syzygium aromaticum
+Coriander	Coriandrum sativum
+Cotton	Gossypium herbaceum
+Cucumber	Cucumis sativus
+Curry plant	Murraya koenigii
+Drumstick	Moringa oleifera
+Garlic	Allium sativum
+Ginger	Zingiber officinale
+Green Gram	Phaseolies aulicus
+Guava	Psidium guajava
+Henna	Lawsonia inermis
+Horse Gram	Dolichos biffoeus
+Jowar	Sorghum vulgare
+Lemon	Citrus limonium
+Lettuce	Lactuca sativa
+Maize	Zea mays
+Mango	Mangifera indica
+Mint	Mentha arvensis
+Money Plant	Epipremnum aureum
+Neem	Azadirachta indica
+Onion	Allium cepa
+Orange	Citrus aurantium
+Pineapple	Ananas comosus
+Potato	Solanum tuberosum
+Radish	Raphanus sativus
+Red Gram	Cajanus cajan
+Sandalwood	Santalum album
+Spinach	Spinacia oleracea
+Tobacco	Nicotina tobaccum
+Tomato	Solanum lycopersicum
+Tulsi	Ocimum sanctum
+Turmeric	Curcuma longa
+Watermelon	Citrullus vulgaris
+Wheat	Triticum aestivum

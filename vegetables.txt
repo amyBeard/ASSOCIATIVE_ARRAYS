@@ -1,0 +1,54 @@
+Asparagus	Asparagus officinalis
+Bitter Gourds	Momordica Charantia
+Broccoli	Brassica oleracea italica group
+Broccoli rabe	Brassica rapus ruvo group
+Cabbage	Brassica oleracea var. capitata
+Calabash	Lagenaria siceraria
+Carrot	Daucus carota subsp. sativus
+Cassava	Manihot esculenta
+Cauliflower	Brassica oleracea
+Chilli	Capsicum spp.
+Chinese cabbage	Brassica rapus chinesesis group
+Chives	Allium schoenoprasum
+Cluster bean	Cyamopsis tetragonoloba
+Coccinia	Coccinia grandis Voigt,   Coccinia cordifolia, Coccinia indica
+Colocasia / Taro	Colocasia esculenta
+Common bean	Phaseolus vulgaris
+Coriander	Coriandrum sativum
+Cow pea	Vigna unguiculata
+Cucumber	Cucumis sativus
+Curry plant (Leaves)	Murraya koenigii
+Drumstick	Moringa oleifera
+Brinjal	Solanum melongena
+Elephant foot Yam	Amorphophallus paeoniifolius
+Garlic	Allium sativum
+Honey dew (Melon)	Cucumis melo
+Hyacinth bean	Lablab purpureus
+Jack fruit	Artocarpus integra
+Leek	Allium porrum
+Lettuce	Lactuca sativa
+Lima bean	Phaseolus limensis
+Luffa	Luffa aegyptiaca
+Mint (Pudina)	Mentha arvensis
+Lady Finger	Abelmoschus esculentus
+Onion	Allium cepa
+Papaya	Carica papaya
+Parsley	Petroselinum crispum
+Pea	Pisum sativum
+Peanut, Groundnut	Arachis hypogaea
+Pointed gourd	Trichosanthes dioica
+Potato	Solanum tubersum
+Pumpkin	Cucurbita maxima
+Radish	Raphanus sativus
+Rutabaga	Brassica napus
+Snake gourd	Trichosanthes cucumerina
+Soybean	Glycine max
+Spinach	Spinacia oleracea
+Spiny gourd	Momordica dioica
+Tomato	Solanum lycopersicum L.
+Turnip	Brassica rapus
+Watermelon	Citrullus lanatus
+Wax gourd	Benincasa hispida
+Welsh onion	Allium fistulosum
+Wild carrot	Daucus carota
+Wild yam	Dioscorea villosa

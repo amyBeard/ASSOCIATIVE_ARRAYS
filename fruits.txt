@@ -1,0 +1,35 @@
+Apple	Pyrus malus
+Apricot	Prunus armeniaca
+Avocado	Persea Americana
+Banana	Musa Paradisicum
+Blackberry	Rubus fruticosus
+Blue Berry	Vaccinium cyanococcus
+Cantaloupe (Kharbuja)	Cucumis melo
+Cherry	Prunus avium
+Dragon fruit	Hylocereus undutus
+Fig	Ficus carica
+Gooseberry	Ribes uva-crispa
+Grapes	Vitis vinifera
+Guava	Psidium guava
+Honeydew	Cucumis melo
+Kiwi fruit	Actinidia deliciosa
+Lime	Citrus latifolia
+Lychee (Lichi)	Litchi chinensis
+Mandarin Orange	Citrus reticulata
+Mango	Mangifera indica
+Mulberry	Genus: Morus
+Nectarine (Peach)	Prunus persica
+Orange	Citrus aurantium
+Papaya	Carica papaya
+Passionfruit	Passiflora edulis
+Pear	Pyrus communis
+Sacred fig (Peepal)	Ficus religiosa Linn
+Persimmon	Diospyros kaki
+Pineapple	Ananus sativus
+Plum	Prunus domestica
+Pomegranate	Punica granatum
+Prickly pear	Opuntia stricta
+Raspberry	Rubus idaeobatus
+Redcurrant	Ribes rubrum
+Watermelon	Citrullus vulgaris
+Amla	Phyllanthus Emblica
